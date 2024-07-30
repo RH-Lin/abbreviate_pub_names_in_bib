@@ -2,6 +2,7 @@
 ## Add publication name in the field of Computer and Science
 
 For usage in the filed of Computer Science (IEEE/ACM...), Run `python abbriviate-cs.py library.bib` refer to the publication listed in publication_list_CS.txt
+
 For usage in the filed of Science (Physics/Chemistry/Medical...), Run `python abbriviate-cience.py library.bib` refer to the publication listed in publication_list_Science.txt
 
 **** 
