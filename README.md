@@ -1,4 +1,13 @@
-# abbreviate_journal_names_in_bib
+# abbreviate_pub_names_in_bib 4 CS & Science
+## Add publication name in the field of Computer and Science
+
+For usage in the filed of Computer Science (IEEE/ACM...), Run `python abbriviate-cs.py library.bib` refer to the publication listed in publication_list_CS.txt
+For usage in the filed of Science (Physics/Chemistry/Medical...), Run `python abbriviate-cience.py library.bib` refer to the publication listed in publication_list_Science.txt
+
+**** 
+
+## Original Usage
+
 ### (In English)
 One-sentence description: Quickly generate a bib file containing the items of all the references you want, and replace the full journal names in the file with official abbreviated names, or do the opposite.
 
