@@ -16,7 +16,7 @@ except FileNotFoundError:
     print("Error: Provided filename could not be loaded!")
     exit(1)
 
-# 逐个读取journal_list.txt中的全名-缩写名，并用缩写名替换超长string中的全名
+# 逐个读取publication_list_Science.txt中的全名-缩写名，并用缩写名替换超长string中的全名
 fr = open('publication_list_Science.txt', 'r', errors='ignore')
 line = fr.readline()
 
