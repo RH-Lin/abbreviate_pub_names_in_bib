@@ -1,6 +1,8 @@
 # abbreviate_pub_names_in_bib 4 CS & Science
 ## Add publication name in the field of Computer and Science
 
+CSDN Detail Descriptions: [https://blog.csdn.net/BigHandsome2020/article/details/140810143](https://blog.csdn.net/BigHandsome2020/article/details/140810143)
+
 For usage in the filed of Computer Science (IEEE/ACM...), Run `python abbriviate-cs.py library.bib` refer to the publication listed in publication_list_CS.txt
 
 For usage in the filed of Science (Physics/Chemistry/Medical...), Run `python abbriviate-cience.py library.bib` refer to the publication listed in publication_list_Science.txt
