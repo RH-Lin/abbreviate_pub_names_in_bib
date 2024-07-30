@@ -17,7 +17,8 @@ except FileNotFoundError:
     print("Error: Provided filename could not be loaded!")
     exit(1)
 
-fr = open('journal_list.txt', 'r', errors='ignore')
+fr = open('publication_list_Science.txt', 'r', errors='ignore')
+# fr = open('publication_list_CS.txt', 'r', errors='ignore')
 line = fr.readline()
 
 # go over journal names in journal_list.txt one by one, and replace the full name in bibtexdb with its abbreviated counterpart. 
